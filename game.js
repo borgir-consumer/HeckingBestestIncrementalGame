@@ -1,5 +1,5 @@
 var nombir = 0
-var audio = new Audio("Oh baby a triple.mp3")
+var audio = new Audio("OhBabyATriple.mp3")
 
 function GivNombir() {
 	audio.play()
